@@ -42,8 +42,8 @@
   },
   "homepage": "https://github.com/yesoreyeram/grafana-infinity-datasource#readme",
   "dependencies": {
-    "@grafana/data": "7.2.0",
-    "@grafana/runtime": "7.2.0",
+    "@grafana/data": "8.2.3",
+    "@grafana/runtime": "8.2.3",
     "@grafana/ui": "7.2.0",
     "cheerio": "^1.0.0-rc.8",
     "csv-parse": "^4.12.0",
