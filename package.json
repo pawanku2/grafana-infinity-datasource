@@ -53,7 +53,7 @@
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "rxjs": "6.6.3",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "@grafana/e2e": "8.2.0",
