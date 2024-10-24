@@ -47,7 +47,7 @@
     "@grafana/ui": "7.2.0",
     "cheerio": "^1.0.0-rc.8",
     "csv-parse": "^4.12.0",
-    "jsonpath-plus": "^4.0.0",
+    "jsonpath-plus": "^10.0.7",
     "lodash": "^4.17.19",
     "mathjs": "^7.2.0",
     "react": "16.12.0",
